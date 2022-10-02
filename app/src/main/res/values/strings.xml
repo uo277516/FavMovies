@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FavMovies</string>
+    <string name="title">Titulo</string>
+    <string name="argument">Argumento</string>
+    <string name="introTitle">Título película</string>
+    <string name="introArgument">Sinapsis de la película</string>
+    <string name="categoria">Categoría</string>
+    <string name="duracion">Duración</string>
+    <string name="fecha">Fecha de la película</string>
+    <string name="msg_guardado">Pelicula guardada</string>
+    <string name="btnGuardar">Guardar</string>
+    <string name="msgCrearCategoria">Crear nueva categoría</string>
+    <string name="msgModCategoria">Modificar categoría</string>
+    <string name="msgCancelarAccion">Acción cancelada</string>
+    <string name="msgAceptarAccion">Aceptar</string>
+    <string name="none">" "</string>
+    <string name="categoriaTextCreacion">Creación de nueva categoría</string>
+    <string name="categoriaNombre">Nombre de la Categoría</string>
+    <string name="categoriaDescripcion">Descripción de la categoría</string>
+    <string name="cancel" />
+    <string name="ok">OK</string>
+    <string name="accept">Aceptar</string>
+</resources>
